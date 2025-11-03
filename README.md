@@ -1,6 +1,6 @@
 # TempConvFA
 
-This repository prvides functions to convert temperatures between Fahrenheit, Celsius and Kelvin.
+This repository provides functions to convert temperatures between Fahrenheit, Celsius, and Kelvin.
 
 ---
 
