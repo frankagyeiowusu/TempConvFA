@@ -35,7 +35,7 @@ library(TempConvFA)
 F_to_C(32)  # Returns 0
 
 # Convert 1°C to Kelvin
-C_to_K(1) # Returns 274.15K
+C_to_K(1) # Returns 274.15
 
 # Convert multiple values
-C_to_K(c(0, 25, 100))  # Returns c(273.15, 298.15, 373.15)
+F_to_K(c(0, 25, 100))  # Returns c(255.3722, 269.2611, 310.9278)
